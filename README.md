@@ -2,7 +2,7 @@
 
 An intelligent enterprise operations platform and automation engine designed to accelerate incident mitigation, automate technical documentation (Install Guides, Runbooks, and Application Recovery Guides), and coordinate Subject Matter Expert (SME) troubleshooting workflows.
 
-[![Live Demo](https://img.shields.io/badge/Demo-Live_Deployment-indigo.svg)](https://runbook-ai.vercel.app)
+[![Live Demo](https://img.shields.io/badge/Demo-Live_Deployment-indigo.svg)](https://runbook-ai-one.vercel.app)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Python Engine](https://img.shields.io/badge/Python-3.10%2B-green.svg)](engine/)
 [![Next.js](https://img.shields.io/badge/Next.js-16.4-black.svg)](package.json)
